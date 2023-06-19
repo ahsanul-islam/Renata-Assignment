@@ -4,7 +4,7 @@ Part-1: Excel
 -------------------------------------------------------
 First of all, a pivot table is created according to the given instructions and is in a sheet named "Pivot_Table_Incomes".
 Three slicers are also added to get the filtered data according to the user's needs. Finally, a stacked bar pivot chart is added to visualize the
-outputs. On the other hand, a column was added on Sheet-1 named "Matched". Here, formulas named "IF" and "COUNTIF" are used to perform  given part of the task. 
+outputs. On the other hand, a column was added on Sheet1 named "Matched". Here, formulas named "IF" and "COUNTIF" are used to perform  given part of the task. 
 Here, conditional formatting is added to the column to give different cell colors to different outputs.
 
 Part-2: Python
